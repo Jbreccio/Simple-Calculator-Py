@@ -3,7 +3,7 @@
 
 """
 Calculadora Simples
-Autor: Seu Nome
+Autor: Breccio, Jose Roberto
 Data: 2025
 Descrição: Uma calculadora básica que realiza operações matemáticas fundamentais
 """
