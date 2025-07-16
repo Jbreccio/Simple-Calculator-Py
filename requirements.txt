@@ -1,0 +1,12 @@
+# Calculadora Simples - Dependências
+
+# Este projeto usa apenas bibliotecas nativas do Python
+# Não são necessárias dependências externas
+
+# Versão mínima do Python recomendada
+# python>=3.7
+
+# Para desenvolvimento (opcionais):
+# pytest>=6.0.0  # Para testes unitários
+# black>=21.0.0  # Para formatação de código
+# flake8>=3.9.0  # Para análise de código
